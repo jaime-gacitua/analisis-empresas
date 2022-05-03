@@ -1,0 +1,589 @@
+{
+    "auth": true,
+    "data": {
+        "estado": {
+            "ejecutivo": "jaimebot",
+            "estado": "pre-estudiado",
+            "fecha": "2022050219151651",
+            "id": 4916,
+            "preEstudio": null,
+            "razonSocial": "Minimarket Makarena Krause E.I.R.L.",
+            "rut": "775590564"
+        },
+        "estudio": {
+            "customer": "santander",
+            "disuelto": false,
+            "errorExtraccion": false,
+            "errorFatal": false,
+            "fechaCambioAdministracion": "2022-04-16",
+            "fechaEstudio": "2022-05-02 19:15:10.509874",
+            "mensajes": [],
+            "modificado": false,
+            "preAprobado": false,
+            "prestudios": [
+                {
+                    "accionistas": {
+                        "articulosReferencia": [
+                            "articulo_5"
+                        ],
+                        "frasesReferencia": [
+                            "MAKARENA DENISS KRAUSE VEGA se obliga a enterar el equivalente al 100 por ciento del capital social, mediante el aporte de $5.000.000 de pesos"
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": [
+                            {
+                                "apellidoMaterno": "VEGA",
+                                "apellidoPaterno": "KRAUSE",
+                                "firmas": [
+                                    {
+                                        "firmado": "Firmado electr\u00f3nicamente el 16-04-2022",
+                                        "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                        "rut": "18.652.751-8"
+                                    }
+                                ],
+                                "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                "nombres": "MAKARENA DENISS",
+                                "participacion": 100.0,
+                                "participacionDinero": 5000000.0,
+                                "participacionExtraccion": "MAKARENA DENISS KRAUSE VEGA se obliga a enterar el equivalente al 100 por ciento del capital social, mediante el aporte de $5.000.000 de pesos",
+                                "rut": "18.652.751-8"
+                            }
+                        ]
+                    },
+                    "administracion": {
+                        "articulosReferencia": [
+                            "articulo_7"
+                        ],
+                        "frasesReferencia": [
+                            "La administraci\u00f3n de la Empresa y el uso de su raz\u00f3n social corresponder\u00e1 a MAKARENA DENISS KRAUSE VEGA."
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": {
+                            "administradores": [
+                                {
+                                    "apellidoMaterno": "VEGA",
+                                    "apellidoPaterno": "KRAUSE",
+                                    "comoAdministra": "individualmente",
+                                    "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                    "nombres": "MAKARENA DENISS",
+                                    "provisorio": false,
+                                    "rut": "18.652.751-8",
+                                    "tipo": "administrador"
+                                }
+                            ],
+                            "comoAdministran": "individualmente",
+                            "quienAdministra": {
+                                "ad": 1,
+                                "di": 0,
+                                "gg": 0,
+                                "todos": 1
+                            },
+                            "texto": "La administraci\u00f3n de la Empresa y el uso de su raz\u00f3n social corresponder\u00e1 a MAKARENA DENISS KRAUSE VEGA.",
+                            "todosConRut": true
+                        }
+                    },
+                    "anexos": [],
+                    "articulosRepetidos": {
+                        "articulosReferencia": [],
+                        "frasesReferencia": [],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": 0
+                    },
+                    "capital": {
+                        "articulosReferencia": [
+                            "articulo_5"
+                        ],
+                        "frasesReferencia": [
+                            "5.000.000"
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": "5.000.000"
+                    },
+                    "cve": "ACKf9v0joBW8",
+                    "disuelto": false,
+                    "domicilio": {
+                        "articulosReferencia": [
+                            "articulo_3"
+                        ],
+                        "frasesReferencia": [
+                            "la comuna de PUERTO MONTT, Regi\u00f3n de LOS LAGOS"
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": "la comuna de PUERTO MONTT, Regi\u00f3n de LOS LAGOS"
+                    },
+                    "duracion": {
+                        "articulosReferencia": [
+                            "articulo_4"
+                        ],
+                        "frasesReferencia": [
+                            "indefinida"
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": {
+                            "finalizada": false,
+                            "tags": [
+                                "indefinido"
+                            ],
+                            "texto": "la duraci\u00f3n de la empresa ser\u00e1 a contar de la fecha de la presente escritura indefinida"
+                        }
+                    },
+                    "errorFatal": false,
+                    "estructura": [
+                        {
+                            "numero": 1,
+                            "texto": "CONSTITUCI\u00d3N DE EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA MINIMARKET MAKARENA KRAUSE E.I.R.L. Rut 77.559.056-4",
+                            "tipo": "titulo_primero"
+                        },
+                        {
+                            "articulos": [
+                                {
+                                    "articulo": "inicio",
+                                    "id": "articulo_0",
+                                    "numero": 0,
+                                    "subarticulos": [],
+                                    "subtitulo": "",
+                                    "texto": "En PUERTO MONTT, Regi\u00f3n de LOS LAGOS, Chile, a 16 de abril del 2022, ante el Registro Electr\u00f3nico de Empresas y Sociedades, comparece: MAKARENA DENISS KRAUSE VEGA, Rut 18.652.751-8, 28 a\u00f1os de edad, Soltero, t\u00e9cnico universitario en alimentos, pa\u00eds de nacionalidad Chile, domiciliado en Pasaje \u00e1mbar N\u00b05870 villa Villa melihuen, comuna de PUERTO MONTT, Regi\u00f3n de LOS LAGOS; el compareciente expone que viene en constituir empresa individual de responsabilidad limitada, que se regir\u00e1 por las disposiciones de la ley n\u00famero diecinueve mil ochocientos cincuenta y siete y sus modificaciones y dem\u00e1s leyes pertinentes, y en especial, por las disposiciones de los siguientes estatutos: "
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO PRIMERO",
+                                    "id": "articulo_1",
+                                    "numero": 1,
+                                    "subarticulos": [],
+                                    "subtitulo": "DEL NOMBRE O RAZON SOCIAL",
+                                    "texto": "El nombre o raz\u00f3n social de la Empresa es \"Minimarket Makarena Krause E.I.R.L.\", pudiendo funcionar y actuar, inclusive ante Bancos y Entidades Financieras con el nombre de fantas\u00eda de Minimarket M&D E.I.R.L."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO SEGUNDO",
+                                    "id": "articulo_2",
+                                    "numero": 2,
+                                    "subarticulos": [],
+                                    "subtitulo": "OBJETO",
+                                    "texto": "La Empresa tendr\u00e1 por objeto desarrollar las siguientes actividades: Minimarket."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO TERCERO",
+                                    "id": "articulo_3",
+                                    "numero": 3,
+                                    "subarticulos": [],
+                                    "subtitulo": "DOMICILIO",
+                                    "texto": "El domicilio de la Empresa es la comuna de PUERTO MONTT, Regi\u00f3n de LOS LAGOS, sin perjuicio de que pueda establecer agencias, sucursales o establecimientos en el resto del pa\u00eds o en el extranjero."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO CUARTO",
+                                    "id": "articulo_4",
+                                    "numero": 4,
+                                    "subarticulos": [],
+                                    "subtitulo": "DURACI\u00d3N",
+                                    "texto": "La duraci\u00f3n de la Empresa ser\u00e1, a contar de la fecha de la presente escritura, indefinida."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO QUINTO",
+                                    "id": "articulo_5",
+                                    "numero": 5,
+                                    "subarticulos": [],
+                                    "subtitulo": "DEL CAPITAL SOCIAL",
+                                    "texto": "El capital de la Empresa es la cantidad de $5.000.000 de pesos ; que el constituyente se obliga a aportar y pagar de la forma siguiente: A) MAKARENA DENISS KRAUSE VEGA se obliga a enterar el equivalente al 100 por ciento del capital social, mediante el aporte de $5.000.000 de pesos que entera y paga a la caja social en efectivo en este acto;"
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO SEXTO",
+                                    "id": "articulo_6",
+                                    "numero": 6,
+                                    "subarticulos": [],
+                                    "subtitulo": "DE LA RESPONSABILIDAD DEL SOCIO",
+                                    "texto": "La responsabilidad del socio queda limitada al monto de su aporte."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO S\u00c9PTIMO",
+                                    "id": "articulo_7",
+                                    "numero": 7,
+                                    "subarticulos": [],
+                                    "subtitulo": "DE LA ADMINISTRACI\u00d3N",
+                                    "texto": "La administraci\u00f3n de la Empresa y el uso de su raz\u00f3n social corresponder\u00e1 a MAKARENA DENISS KRAUSE VEGA."
+                                },
+                                {
+                                    "articulo": "ART\u00cdCULO OCTAVO",
+                                    "id": "articulo_8",
+                                    "numero": 8,
+                                    "subarticulos": [],
+                                    "subtitulo": "DE LOS PODERES CONFERIDOS AL ADMINISTRADOR",
+                                    "texto": " REPRESENTACION ANTE INSTITUCIONES Concurrir ante toda clase de autoridades pol\u00edticas, administrativas, municipales, organismos o instituciones de derecho p\u00fablico, fiscales o semifiscales, autoridades de orden tributario, previsional o laboral, o personas de derecho privado, sean ellas naturales o jur\u00eddicas, con toda clase de solicitudes y dem\u00e1s documentos que sean menester y desistirse de sus peticiones. AUTOCONTRATACI\u00d3N: Autocontratar. REPRESENTACION JUDICIAL Representar judicialmente a la Sociedad con todas y cada una de las facultades ordinarias y extraordinarias del mandato judicial contempladas en ambos incisos del art\u00edculo siete del C\u00f3digo de Procedimiento Civil, las que incluyen la facultad de desistirse en primera instancia de la acci\u00f3n deducida, aceptar la demanda contraria, absolver posiciones, renunciar a los recursos y los t\u00e9rminos legales, transigir, con declaraci\u00f3n expresa que la facultad de transigir comprende tambi\u00e9n la transacci\u00f3n extrajudicial, comprometer, otorgar a los \u00e1rbitros facultades de arbitradores, aprobar convenios judiciales o extrajudiciales, percibir, otorgar quitas o esperas. FIRMA DE DOCUMENTOS Y RETIRO DE CORRESPONDENCIA. Firmar recibos, finiquitos y cancelaciones y, en general, suscribir, otorgar, firmar, extender, modificar y refrendar toda clase de documentos p\u00fablicos o privados, pudiendo formular en ellos todas las declaraciones que estimen necesarias o convenientes; retirar de las oficinas de correos, aduanas, empresas de transporte terrestre, mar\u00edtimo, a\u00e9reo, toda clase de correspondencia, incluso certificada, giros, reembolsos, cargas, encomiendas, mercader\u00edas, piezas postales, etc\u00e9tera, consignadas o dirigidas a la Sociedad; firmar la correspondencia de la Sociedad. SEGUROS Celebrar contratos de seguros, pudiendo acordar primas, fijar riesgos, plazos y dem\u00e1s condiciones, cobrar p\u00f3lizas, endosarlas, cancelarlas, aprobar e impugnar liquidaciones de siniestros. CR\u00c9DITOS Celebrar con los bancos comerciales, instituciones de cr\u00e9dito, corporaciones de derecho p\u00fablico o privado, sociedades civiles, comerciales o de otro orden, con el Banco del Estado de Chile, con particulares o con cualesquiera instituciones nacionales, extranjeras o internacionales, contratos de pr\u00e9stamos y de mutuo. OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS Representar a la Sociedad en los bancos e instituciones financieras con las m\u00e1s amplias facultades que se precisen; darles instrucciones y cometerles comisiones de confianza; celebrar contratos de cuenta corriente bancaria de dep\u00f3sito o de cr\u00e9dito, pudiendo depositar, girar y sobregirar en ellas, sea mediante cheques, \u00f3rdenes de pago o transferencias electr\u00f3nicas, imponerse de su movimiento, modificarlos y ponerles t\u00e9rmino o solicitar su terminaci\u00f3n; aprobar y objetar saldos; requerir y retirar talonarios de cheques o cheques sueltos; arrendar cajas de seguridad, abrirlas y poner t\u00e9rmino a su arrendamiento; abrir cuentas de ahorro, a la vista o a plazo, hacer dep\u00f3sitos en ellas, retirar fondos total o parcialmente, cerrar las cuentas; colocar y retirar dineros, sea en moneda nacional o extranjera, y valores en dep\u00f3sito, custodia o garant\u00eda o cancelar los certificados respectivos; tomar y cancelar vales vista, boletas bancarias o boletas de garant\u00eda; asumir riesgos de cambio, liquidar y/o remesar divisas y, en general, efectuar toda clase de operaciones bancarias en moneda nacional o extranjera. COBRAR Y PERCIBIR Cobrar y percibir judicial y extrajudicialmente todo cuanto se adeude a la Sociedad a cualquier t\u00edtulo que sea en dinero, en otra clase de bienes corporales o incorporales, ra\u00edces, muebles, valores mobiliarios, efectos de comercio, etc\u00e9tera. CONSTITUCION DE SOCIEDADES Constituir sociedades de cualquier clase, de comunidades o asociaciones de corporaciones, de cooperativas, ingresar a las ya constituidas, representar a la Sociedad, con voz y voto, en todas ellas; concurrir a la modificaci\u00f3n, disoluci\u00f3n y liquidaci\u00f3n de aqu\u00e9llas de que forme parte y ejercer o renunciar las acciones que competan a la Sociedad en tales sociedades o comunidades sin limitaci\u00f3n alguna. REPRESENTACI\u00d3N ANTE SOCIEDADES Y ASOCIACIONES Representar a la Sociedad, con voz y voto, en todas las sociedades, comunidades, cooperativas, asociaciones, empresas y organismos privados de que la sociedad forma parte o en que tenga participaci\u00f3n o inter\u00e9s, aunque no sea pecuniario; con facultad de intervenir en las reuniones, asambleas, comit\u00e9s y dem\u00e1s \u00f3rganos de tales entidades, en lo que corresponda conforme a la ley, estatutos o convenios que la rijan y para que ejerza todos los derechos que en ella correspondan a la sociedad."
+                                }
+                            ],
+                            "numero": 2,
+                            "referencias": {
+                                "accionesSociosSpa": -1,
+                                "administracion": 7,
+                                "administracionGgSpa": -1,
+                                "administracionTransitoria": -1,
+                                "capital": 5,
+                                "domicilio": 3,
+                                "duracion": 4,
+                                "facultades": 8,
+                                "fantasia": -1,
+                                "gerenteGeneral": -1,
+                                "objeto": 2,
+                                "razonSocial": 1,
+                                "responsabilidad": 6
+                            },
+                            "subArticulos": [],
+                            "tipo": "principal"
+                        },
+                        {
+                            "bloques": [
+                                {
+                                    "fuente": "/SSUVXF+TimesNewRomanPSMT",
+                                    "objetos": [
+                                        {
+                                            "posX": 0.0,
+                                            "posY": 0.0,
+                                            "texto": "MAKARENA DENISS KRAUSE VEGA"
+                                        },
+                                        {
+                                            "posX": 259.2,
+                                            "posY": 0.0,
+                                            "texto": "Firmado electr\u00f3nicamente"
+                                        },
+                                        {
+                                            "posX": 0.0,
+                                            "posY": 24.0,
+                                            "texto": "RUT: 18.652.751-8"
+                                        },
+                                        {
+                                            "posX": 259.2,
+                                            "posY": 24.0,
+                                            "texto": "el 16-04-2022"
+                                        }
+                                    ],
+                                    "posX": 82.0,
+                                    "posY": 3006.0,
+                                    "texto": "",
+                                    "tipo": "Tm"
+                                }
+                            ],
+                            "firmas": [
+                                {
+                                    "firmado": "Firmado electr\u00f3nicamente el 16-04-2022",
+                                    "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                    "rut": "18.652.751-8"
+                                }
+                            ],
+                            "numero": 3,
+                            "tipo": "firmas"
+                        }
+                    ],
+                    "facultades": {
+                        "articulosReferencia": [
+                            "articulo_8"
+                        ],
+                        "frasesReferencia": [],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": {
+                            "facultades": {
+                                "AUTOCONTRATACION": "autocontratar",
+                                "COBRAR Y PERCIBIR": "cobrar y percibir judicial y extrajudicialmente todo cuanto se adeude a la sociedad a cualquier titulo que sea en dinero, en otra clase de bienes corporales o incorporales, raices, muebles, valores mobiliarios, efectos de comercio, etcetera",
+                                "CONSTITUCION DE SOCIEDADES": "constituir sociedades de cualquier clase, de comunidades o asociaciones de corporaciones, de cooperativas, ingresar a las ya constituidas, representar a la sociedad, con voz y voto, en todas ellas; concurrir a la modificacion, disolucion y liquidacion de aquellas de que forme parte y ejercer o renunciar las acciones que competan a la sociedad en tales sociedades o comunidades sin limitacion alguna",
+                                "CREDITOS": "celebrar con los bancos comerciales, instituciones de credito, corporaciones de derecho publico o privado, sociedades civiles, comerciales o de otro orden, con el banco del estado de chile, con particulares o con cualesquiera instituciones nacionales, extranjeras o internacionales, contratos de prestamos y de mutuo",
+                                "FIRMA DE DOCUMENTOS Y RETIRO DE CORRESPONDENCIA": "firmar recibos, finiquitos y cancelaciones y, en general, suscribir, otorgar, firmar, extender, modificar y refrendar toda clase de documentos publicos o privados, pudiendo formular en ellos todas las declaraciones que estimen necesarias o convenientes; retirar de las oficinas de correos, aduanas, empresas de transporte terrestre, maritimo, aereo, toda clase de correspondencia, incluso certificada, giros, reembolsos, cargas, encomiendas, mercaderias, piezas postales, etcetera, consignadas o dirigidas a la sociedad; firmar la correspondencia de la sociedad",
+                                "OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS": "representar a la sociedad en los bancos e instituciones financieras con las mas amplias facultades que se precisen; darles instrucciones y cometerles comisiones de confianza; celebrar contratos de cuenta corriente bancaria de deposito o de credito, pudiendo depositar, girar y sobregirar en ellas, sea mediante cheques, ordenes de pago o transferencias electronicas, imponerse de su movimiento, modificarlos y ponerles termino o solicitar su terminacion; aprobar y objetar saldos; requerir y retirar talonarios de cheques o cheques sueltos; arrendar cajas de seguridad, abrirlas y poner termino a su arrendamiento; abrir cuentas de ahorro, a la vista o a plazo, hacer depositos en ellas, retirar fondos total o parcialmente, cerrar las cuentas; colocar y retirar dineros, sea en moneda nacional o extranjera, y valores en deposito, custodia o garantia o cancelar los certificados respectivos; tomar y cancelar vales vista, boletas bancarias o boletas de garantia; asumir riesgos de cambio, liquidar y/o remesar divisas y, en general, efectuar toda clase de operaciones bancarias en moneda nacional o extranjera",
+                                "REPRESENTACION ANTE INSTITUCIONES": "concurrir ante toda clase de autoridades politicas, administrativas, municipales, organismos o instituciones de derecho publico, fiscales o semifiscales, autoridades de orden tributario, previsional o laboral, o personas de derecho privado, sean ellas naturales o juridicas, con toda clase de solicitudes y demas documentos que sean menester y desistirse de sus peticiones",
+                                "REPRESENTACION ANTE SOCIEDADES Y ASOCIACIONES": "representar a la sociedad, con voz y voto, en todas las sociedades, comunidades, cooperativas, asociaciones, empresas y organismos privados de que la sociedad forma parte o en que tenga participacion o interes, aunque no sea pecuniario; con facultad de intervenir en las reuniones, asambleas, comites y demas organos de tales entidades, en lo que corresponda conforme a la ley, estatutos o convenios que la rijan y para que ejerza todos los derechos que en ella correspondan a la sociedad",
+                                "REPRESENTACION JUDICIAL": "representar judicialmente a la sociedad con todas y cada una de las facultades ordinarias y extraordinarias del mandato judicial contempladas en ambos incisos del articulo siete del codigo de procedimiento civil, las que incluyen la facultad de desistirse en primera instancia de la accion deducida, aceptar la demanda contraria, absolver posiciones, renunciar a los recursos y los terminos legales, transigir, con declaracion expresa que la facultad de transigir comprende tambien la transaccion extrajudicial, comprometer, otorgar a los arbitros facultades de arbitradores, aprobar convenios judiciales o extrajudiciales, percibir, otorgar quitas o esperas",
+                                "SEGUROS": "celebrar contratos de seguros, pudiendo acordar primas, fijar riesgos, plazos y demas condiciones, cobrar polizas, endosarlas, cancelarlas, aprobar e impugnar liquidaciones de siniestros"
+                            },
+                            "facultados": null,
+                            "inicio": " "
+                        }
+                    },
+                    "fecha": "2022-04-16",
+                    "firmas": {
+                        "bloques": [
+                            {
+                                "fuente": "/SSUVXF+TimesNewRomanPSMT",
+                                "objetos": [
+                                    {
+                                        "posX": 0.0,
+                                        "posY": 0.0,
+                                        "texto": "MAKARENA DENISS KRAUSE VEGA"
+                                    },
+                                    {
+                                        "posX": 259.2,
+                                        "posY": 0.0,
+                                        "texto": "Firmado electr\u00f3nicamente"
+                                    },
+                                    {
+                                        "posX": 0.0,
+                                        "posY": 24.0,
+                                        "texto": "RUT: 18.652.751-8"
+                                    },
+                                    {
+                                        "posX": 259.2,
+                                        "posY": 24.0,
+                                        "texto": "el 16-04-2022"
+                                    }
+                                ],
+                                "posX": 82.0,
+                                "posY": 3006.0,
+                                "texto": "",
+                                "tipo": "Tm"
+                            }
+                        ],
+                        "firmas": [
+                            {
+                                "firmado": "Firmado electr\u00f3nicamente el 16-04-2022",
+                                "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                "rut": "18.652.751-8"
+                            }
+                        ],
+                        "numero": 3,
+                        "tipo": "firmas"
+                    },
+                    "mensajes": [],
+                    "modificacion": {},
+                    "nombreFantasia": {
+                        "articulosReferencia": [
+                            "articulo_1"
+                        ],
+                        "frasesReferencia": [
+                            "Minimarket M&D E.I.R.L."
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": "Minimarket M&D E.I.R.L."
+                    },
+                    "objeto": {
+                        "articulosReferencia": [
+                            "articulo_2"
+                        ],
+                        "frasesReferencia": [
+                            "Minimarket."
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": "Minimarket."
+                    },
+                    "preAprobado": false,
+                    "razonSocial": {
+                        "articulosReferencia": [
+                            "articulo_1"
+                        ],
+                        "frasesReferencia": [
+                            "Minimarket Makarena Krause E.I.R.L."
+                        ],
+                        "mensajes": [],
+                        "ok": true,
+                        "valor": "Minimarket Makarena Krause E.I.R.L."
+                    },
+                    "rut": "77559056-4",
+                    "tipoActuacion": "CONSTITUCION",
+                    "tipoSociedad": "EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA"
+                }
+            ],
+            "rut": "77559056-4",
+            "santander": {
+                "administradores": [
+                    {
+                        "apellidoMaterno": "VEGA",
+                        "apellidoPaterno": "KRAUSE",
+                        "comoAdministra": "individualmente",
+                        "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                        "nombres": "MAKARENA DENISS",
+                        "provisorio": false,
+                        "rut": "18.652.751-8",
+                        "tipo": "administrador"
+                    }
+                ],
+                "algunaEncontrada": false,
+                "disuelto": false,
+                "facultades": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    19,
+                    20,
+                    39,
+                    40,
+                    42,
+                    43,
+                    44,
+                    46,
+                    48,
+                    52,
+                    53,
+                    55,
+                    56,
+                    57,
+                    60,
+                    61,
+                    62,
+                    63,
+                    68,
+                    70
+                ],
+                "grupos": [
+                    {
+                        "administradores": [
+                            {
+                                "apellidoMaterno": "VEGA",
+                                "apellidoPaterno": "KRAUSE",
+                                "comoAdministra": "individualmente",
+                                "nombre": "MAKARENA DENISS KRAUSE VEGA",
+                                "nombres": "MAKARENA DENISS",
+                                "provisorio": false,
+                                "rut": "18.652.751-8",
+                                "tipo": "administrador"
+                            }
+                        ],
+                        "nombre": "1"
+                    }
+                ],
+                "limitaciones": [],
+                "matrizGetnet": [
+                    {
+                        "facultadesFaltantes": [
+                            "CELEBRACION DE CONTRATOS"
+                        ],
+                        "facultadesNecesarias": [
+                            "CELEBRACION DE CONTRATOS",
+                            "COBRAR Y PERCIBIR"
+                        ],
+                        "ok": false,
+                        "producto": "POS getnet"
+                    }
+                ],
+                "matrizPoderes": [
+                    {
+                        "facultades": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            19,
+                            20,
+                            39,
+                            40,
+                            42,
+                            43,
+                            44,
+                            46,
+                            48,
+                            52,
+                            53,
+                            55,
+                            56,
+                            57,
+                            60,
+                            61,
+                            62,
+                            63,
+                            68,
+                            70
+                        ],
+                        "gruposFirmantes": [
+                            [
+                                [
+                                    "1",
+                                    1
+                                ]
+                            ]
+                        ],
+                        "limitaciones": []
+                    }
+                ],
+                "matrizProductos": [
+                    {
+                        "facultadesFaltantes": [
+                            "CELEBRACION DE CONTRATOS"
+                        ],
+                        "facultadesNecesarias": [
+                            "OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS",
+                            "CELEBRACION DE CONTRATOS"
+                        ],
+                        "ok": false,
+                        "producto": "Cuenta corriente"
+                    },
+                    {
+                        "facultadesFaltantes": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "facultadesNecesarias": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "ok": false,
+                        "producto": "Tarjeta de d\u00e9bito"
+                    },
+                    {
+                        "facultadesFaltantes": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "facultadesNecesarias": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "ok": false,
+                        "producto": "Tarjeta de cr\u00e9dito"
+                    },
+                    {
+                        "facultadesFaltantes": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "facultadesNecesarias": [
+                            "CONSTITUCION DE GARANTIAS",
+                            "OPERACIONES CON CHEQUES, LETRAS, PAGARES Y OTROS DOCUMENTOS MERCANTILES",
+                            "OPERACIONES CON BANCOS E INSTITUCIONES FINANCIERAS",
+                            "CELEBRACION DE CONTRATOS",
+                            "MANDATOS"
+                        ],
+                        "ok": false,
+                        "producto": "L\u00ednea de cr\u00e9dito"
+                    }
+                ],
+                "preAprobado": false,
+                "razonSocial": "Minimarket Makarena Krause E.I.R.L.",
+                "rut": "77559056-4"
+            },
+            "tipoSociedad": "EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+            "transformado": false,
+            "ultimaModificacion": "2022-04-16"
+        },
+        "getnet": false,
+        "id": 4916,
+        "ok": true,
+        "santander": true
+    },
+    "mensaje": "- -",
+    "ok": true
+}
