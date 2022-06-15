@@ -96,3 +96,4 @@ target/
 
 # Data
 *.csv
+*.pickle

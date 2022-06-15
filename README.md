@@ -1,7 +1,23 @@
-analisis-empresas
+Corporate Intelligence
 ==============================
 
-APatrones interesantes en empresas constituidas en Chile
+Inteligencia de mercado de empresas constituidas en Chile
+
+TODO list
+
+* ~~Move functions to /src~~
+* Create engine for modificaciones
+* ~~Add tipo_actuacion to existing database~~
+* ~~Analyze monthly volumes~~
+* ~~Create local file management to reduce S3 calls~~
+* Move repo to the better cookiecutter
+* Create ETL of studies requested by clients
+* Create training pipeline
+* Create feature: age
+* Create feature: mean RUT
+* Create feature: objeto_topic
+* Create feature: company_type
+* Create feature: n_owners
 
 Project Organization
 ------------
@@ -50,7 +66,6 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
 
 --------
 
